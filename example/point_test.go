@@ -2,7 +2,7 @@ package point
 
 import (
 	"testing"
-	"assert"
+	"github.com/technoweenie/assert"
 )
 
 func TestAsserts(t *testing.T) {
